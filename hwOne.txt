@@ -1,3 +1,1 @@
-Hello, my name is Moose and I am working on hw1
-
-Hello world, we are Moose and Tony, and we are collaborating on HW4!
+Hello world, we are Moose and Tony, and we are collaborating on HW4! We started working on 2/27/2024
